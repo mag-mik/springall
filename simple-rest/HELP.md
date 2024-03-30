@@ -6,4 +6,4 @@ https://www.baeldung.com/jackson-advanced-annotations
 
 API's
 https://apifaketory.docs.apiary.io/#
-https://gturnquist-quoters.cfapps.io/api/random
+https://gturnquist-quoters.cfapps.io/api/random - 404 Not Found: Requested route ('gturnquist-quoters.cfapps.io') does not exist.

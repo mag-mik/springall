@@ -20,5 +20,6 @@ public class FeignConfiguration {
                 .logger(new Logger.ErrorLogger())
                 .logLevel(Logger.Level.BASIC)
                 .target(QuotesClient.class, "https://gturnquist-quoters.cfapps.io/api");
+//        "https://gistcdn.githack.com/ayan-b/ff0441b5a8d6c489b58659ffb849aff4/raw/e1c5ca10f7bea57edd793c4189ea8339de534b45/response.json"
     }
 }

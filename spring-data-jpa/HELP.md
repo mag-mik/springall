@@ -44,3 +44,6 @@ abstaract parent Audit
 @MappedSuperclass
 
 @EnableJpaAuditing - to the main App class
+
+# DON'T WORK 
+# FIND NEW SPRING HIBERNATE EXAMPLE 

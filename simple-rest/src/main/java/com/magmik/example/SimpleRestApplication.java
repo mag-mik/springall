@@ -22,7 +22,8 @@ public class SimpleRestApplication {
 @RestController
 class BooksController {
 
-    @GetMapping("/books") //will handle get request
+//    @GetMapping("/books")
+    @GetMapping("/") //will handle get request
     public List<Book> getAllBooks() {
 
         return Arrays.asList(new Book(1l, "Mastering Spring", "Misha"));
